@@ -1,0 +1,20 @@
+body{
+    background-color: antiquewhite;
+}
+
+.main-body>div>img{
+    border: 2px solid black;
+    border-radius: 50%;
+    max-width: 100%;
+    
+}
+.main-body>div{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   flex-wrap: wrap;
+   max-width: 100%;
+   align-items: center;
+
+}

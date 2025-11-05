@@ -1,0 +1,26 @@
+.main-footer{
+    display: flex;
+    background-color:rgb(219, 219, 195);
+    flex-direction: column;
+   
+   left: 0;
+   bottom: 0;
+   width: 100%;
+}
+
+.main-footer>.ul-footer{
+    list-style-type: none;
+    flex-direction: column;
+}
+
+.main-footer>p{
+    font-size: x-small;
+    color: rgb(0, 0, 0);
+}
+
+
+footer a {
+    color: black;
+
+}
+
